@@ -1,0 +1,21 @@
+.skill{
+    width: 250px;
+    height: 400px;
+    background-color: gold;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.top{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.botton{
+    width: 250px;
+    height: 200px;
+    background-color: burlywood;
+}

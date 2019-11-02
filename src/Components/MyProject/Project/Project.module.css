@@ -1,0 +1,17 @@
+.project{
+  width: 280px;
+  height: 400px;
+  background-color: cadetblue;
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-end;
+ }
+ .name{
+   width: 280px;
+   height: 150px;
+   background-color: chocolate;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   text-align: center;
+ }

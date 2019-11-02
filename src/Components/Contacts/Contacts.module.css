@@ -1,0 +1,27 @@
+.contacts{
+  height: 100vh;
+  background-color: chocolate;
+  display: flex;
+  justify-content: center;
+ }
+.container{
+  border: 1px solid red;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  }
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form input{
+  width: 380px;
+  height: 25px;
+}
+.form textarea{
+  width: 380px;
+  height: 120px;
+}
